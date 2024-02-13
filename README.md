@@ -1,0 +1,1 @@
+# Hospital_Management_System_software_by_Python_and_MySQL_GUI
